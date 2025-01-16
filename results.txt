@@ -1,0 +1,16 @@
+RESULTADOS APRENDIZAJE POR REFUERZO Julio Ribas de Novales y Felipe Peña Núñez
+
+Frozen lake:
+	- Qlearning voraz: Tiempo = 0.59; Recompensa media = 0.85; Longitud media = 8.24
+	- Qlearning épsilon voraz: Tiempo = 0.73; Recompensa media = 0.81; Longitud media = 11.98
+	- Montecarlo: Tiempo = 3.53; Recompensa media = 0.0; Longitud media = 35.65
+	- SARSA voraz: Tiempo = 0.64; Recompensa media = 0.84; Longitud media = 9.2
+	- SARSA épsilon voraz: Tiempo = 0.65; Recompensa media = 0.58; Longitud media = 9.8
+Taxi:
+	- Qlearning voraz: Tiempo = 0.52; Recompensa media = -3.10; Longitud media = 20.52
+	- Qlearning épsilon voraz: Tiempo = 0.73; Recompensa media = -9.04; Longitud media = 22.04
+	- Montecarlo: Tiempo = 2.36; Recompensa media = -26.09; Longitud media = 33.49
+	- SARSA voraz: Tiempo = 0.56; Recompensa media = -3.50; Longitud media = 20.49
+	- SARSA épsilon voraz: Tiempo = 0.73; Recompensa media = -11.17; Longitud media = 23.27
+Golf: 
+	- No ejecuta el entorno creado
