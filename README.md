@@ -1,0 +1,1 @@
+This project corresponds to the Artificial Intelligence course. In it some reinforcement learning algorithms are tested and compared in differnet scenarios. Gymnasium is used, which is a an open source Python library for developing and comparing reinforcement learning algorithms by providing a standard API.
